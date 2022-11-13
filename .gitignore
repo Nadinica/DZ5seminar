@@ -370,4 +370,4 @@ FodyWeavers.xsd
 *obj
 *.vscode
 *.vscode/launch.json
-*.vscode/tasks.json
+.vscode/tasks.json
